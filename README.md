@@ -1,5 +1,7 @@
 # Holocure Brazilian Translation by Undead Kennedy.
 
+!!!!!!!NÃO ATUALIZADO PARA A VERSÃO 0.6 AINDA!!!!!!!!!
+
 Basta substituir o arquivo data.win na pasta raiz do jogo pelo que baixar daqui.
 Você também pode manter uma cópia da pasta do jogo só para a versão traduzida, ambas vão usar o mesmo save.
 
